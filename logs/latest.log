@@ -1,117 +1,200 @@
-[15:03:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.11+10-1-26.04.2-Ubuntu; Ubuntu null) on Linux 7.0.0-14-generic (amd64)
-[15:03:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-74-main@3ebc5b3 (2026-01-02T19:02:46Z) for Minecraft 1.21.11
-[15:03:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:03:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[15:03:03] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[15:58:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.11+10-1-26.04.2-Ubuntu; Ubuntu null) on Linux 7.0.0-14-generic (amd64)
+[15:58:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-74-main@3ebc5b3 (2026-01-02T19:02:46Z) for Minecraft 1.21.11
+[15:58:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:58:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[15:58:39] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - Veinminer (2.5.3)
-[15:03:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+[15:58:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
  - Chunky (1.4.40), SkinsRestorer (15.12.0), TAB (5.4.0)
-[15:03:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[15:03:08] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[15:03:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 657.4ms
-[15:03:12] [ServerMain/INFO]: Loaded 1470 recipes
-[15:03:12] [ServerMain/INFO]: Loaded 1584 advancements
-[15:03:12] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[15:03:12] [Server thread/INFO]: Loading properties
-[15:03:12] [Server thread/INFO]: This server is running Paper version 1.21.11-74-main@3ebc5b3 (2026-01-02T19:02:46Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
-[15:03:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[15:03:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:03:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:03:12] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[15:03:12] [Server thread/INFO]: Default game type: SURVIVAL
-[15:03:12] [Server thread/INFO]: Generating keypair
-[15:03:13] [Server thread/INFO]: Starting Minecraft server on *:2026
-[15:03:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:03:13] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[15:03:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.0
-[15:03:13] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.4.0
-[15:03:13] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[15:03:13] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.5.3
-[15:03:13] [Server thread/INFO]: [Veinminer] Detected platform: Paper
-[15:03:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:03:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.0
-[15:03:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
-[15:03:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[15:03:15] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.5.3
-[15:03:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:03:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:03:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:03:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:03:16] [Server thread/INFO]: Preparing level "world"
-[15:03:16] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
-[15:03:16] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.0
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 2903414
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
-[15:03:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
-[15:03:17] [Server thread/INFO]: Preparing spawn area: 100%
-[15:03:17] [Server thread/INFO]: Prepared spawn area in 1 ms
-[15:03:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
-[15:03:17] [Server thread/INFO]: Prepared spawn area in 0 ms
-[15:03:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
-[15:03:17] [Server thread/INFO]: Prepared spawn area in 1 ms
-[15:03:17] [Server thread/INFO]: Done preparing level "world" (1.317s)
-[15:03:17] [Server thread/INFO]: [TAB] Enabling TAB v5.4.0
-[15:03:17] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is outdated (1.21.11). Installed: 2.5.3 -> Latest: 2.10.1
-[15:03:18] [Server thread/INFO]: [TAB] Enabled in 571ms
-[15:03:18] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[15:03:18] [Server thread/INFO]: [spark] Starting background profiler...
-[15:03:18] [Server thread/INFO]: Running delayed init tasks
-[15:03:18] [Server thread/INFO]: Done (18.643s)! For help, type "help"
-[15:03:21] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 release(s) and 58 build(s) behind!
-[15:03:21] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
-[15:06:01] [Server thread/INFO]: Unknown or incomplete command. See below for error
-hi<--[HERE]
-[15:07:27] [User Authenticator #0/INFO]: UUID of player _Marble_ is 1c392ad1-810a-3efc-8e1f-05278ea68342
-[15:07:31] [Server thread/INFO]: _Marble_ joined the game
-[15:07:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player _Marble_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[15:07:31] [Server thread/INFO]: _Marble_[/100.105.223.48:54465] logged in with entity id 92 at ([world]-927.0749999880791, 67.5, 4659.34254500023)
-[15:07:57] [Server thread/INFO]: _Marble_ lost connection: Disconnected
-[15:07:58] [Server thread/INFO]: _Marble_ left the game
-[15:24:18] [Server thread/INFO]: Stopping server
-[15:24:18] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.5.3
-[15:24:18] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
-[15:24:18] [Server thread/INFO]: [TAB] Disabling TAB v5.4.0
-[15:24:18] [Server thread/INFO]: [TAB] Disabled in 1ms
-[15:24:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
-[15:24:18] [Server thread/INFO]: Saving players
-[15:24:18] [Server thread/INFO]: Saving worlds
-[15:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[15:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[15:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:24:18] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[15:24:18] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[15:24:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[15:24:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[15:58:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:58:45] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:58:45] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 637.0ms
+[15:58:48] [ServerMain/INFO]: Loaded 1470 recipes
+[15:58:48] [ServerMain/INFO]: Loaded 1584 advancements
+[15:58:48] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[15:58:48] [Server thread/INFO]: Loading properties
+[15:58:48] [Server thread/INFO]: This server is running Paper version 1.21.11-74-main@3ebc5b3 (2026-01-02T19:02:46Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[15:58:48] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:58:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:58:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:58:48] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[15:58:49] [Server thread/INFO]: Default game type: SURVIVAL
+[15:58:49] [Server thread/INFO]: Generating keypair
+[15:58:49] [Server thread/INFO]: Starting Minecraft server on *:2026
+[15:58:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:58:49] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:58:49] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.0
+[15:58:49] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.4.0
+[15:58:49] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[15:58:49] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.5.3
+[15:58:49] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[15:58:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:58:50] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.0
+[15:58:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[15:58:52] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:58:52] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.5.3
+[15:58:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:58:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:58:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:58:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:58:53] [Server thread/INFO]: Preparing level "world"
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.0
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 2903414
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:58:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[15:58:53] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[15:58:53] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[15:58:54] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:58:54] [Server thread/INFO]: Preparing spawn area: 100%
+[15:58:54] [Server thread/INFO]: Prepared spawn area in 1 ms
+[15:58:54] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:58:54] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:58:54] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:58:54] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:58:54] [Server thread/INFO]: Done preparing level "world" (1.305s)
+[15:58:54] [Server thread/INFO]: [TAB] Enabling TAB v5.4.0
+[15:58:55] [Server thread/INFO]: [TAB] Enabled in 505ms
+[15:58:55] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[15:58:55] [Server thread/INFO]: [spark] Starting background profiler...
+[15:58:55] [Server thread/INFO]: Running delayed init tasks
+[15:58:55] [Server thread/INFO]: Done (19.415s)! For help, type "help"
+[15:58:56] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is outdated (1.21.11). Installed: 2.5.3 -> Latest: 2.10.1
+[15:58:57] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 release(s) and 58 build(s) behind!
+[15:58:57] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[15:59:05] [User Authenticator #0/INFO]: UUID of player _Marble_ is 1c392ad1-810a-3efc-8e1f-05278ea68342
+[15:59:08] [Server thread/INFO]: _Marble_ joined the game
+[15:59:08] [TAB Processing Thread/INFO]: [TAB] [WARN] Player _Marble_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:59:08] [Server thread/INFO]: _Marble_[/100.105.223.48:55061] logged in with entity id 105 at ([world]-928.2006078069245, 68.1875, 4657.011683180588)
+[15:59:21] [Server thread/WARN]: _Marble_ moved too quickly! 9.500846323144174,-0.875,-3.445851659361324
+[16:00:22] [Server thread/WARN]: _Marble_ moved too quickly! 9.026473115709223,1.757002463247801,-4.863740248300928
+[16:00:30] [User Authenticator #1/INFO]: UUID of player ButteredFire is d222130c-efd4-3d7c-bb7f-da38deedd171
+[16:00:31] [Server thread/INFO]: ButteredFire joined the game
+[16:00:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ButteredFire's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[16:00:31] [Server thread/INFO]: ButteredFire[/100.66.196.30:56086] logged in with entity id 348 at ([world]-921.7360473881959, 69.0, 4655.465272115665)
+[16:00:37] [Async Chat Thread - #0/INFO]: [Not Secure] <_Marble_> hello
+[16:00:38] [Async Chat Thread - #0/INFO]: [Not Secure] <_Marble_> =))
+[16:01:28] [Async Chat Thread - #0/INFO]: [Not Secure] <_Marble_> em k nghe dc anh noi=))
+[16:01:33] [Async Chat Thread - #0/INFO]: [Not Secure] <ButteredFire> ua v a :v
+[16:03:33] [Async Chat Thread - #2/INFO]: [Not Secure] <_Marble_> -911 71 4637
+[16:29:24] [Server thread/INFO]: _Marble_ has made the advancement [The Parrots and the Bats]
+[16:55:52] [Server thread/INFO]: _Marble_ has made the advancement [A Seedy Place]
+[16:58:12] [Server thread/INFO]: ButteredFire has made the advancement [A Seedy Place]
+[17:37:41] [Server thread/INFO]: _Marble_ lost connection: Timed out
+[17:37:41] [Server thread/INFO]: _Marble_ left the game
+[17:38:37] [User Authenticator #2/INFO]: UUID of player _Marble_ is 1c392ad1-810a-3efc-8e1f-05278ea68342
+[17:38:38] [Server thread/INFO]: _Marble_ joined the game
+[17:38:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player _Marble_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:38:38] [Server thread/INFO]: _Marble_[/100.105.223.48:55593] logged in with entity id 32920 at ([world]-1100.0395445466922, 63.84375002384186, 4485.705891285486)
+[17:38:42] [Async Chat Thread - #4/INFO]: [Not Secure] <_Marble_> helloanh=))))
+[17:38:50] [Async Chat Thread - #4/INFO]: [Not Secure] <_Marble_> me em keu la sao chx di ngu=v
+[17:38:50] [Async Chat Thread - #5/INFO]: [Not Secure] <ButteredFire> jv :))
+[17:38:59] [Async Chat Thread - #5/INFO]: [Not Secure] <ButteredFire> vay minh ve base di r di ngu
+[17:39:04] [Async Chat Thread - #5/INFO]: [Not Secure] <_Marble_> oke anh
+[17:41:09] [Async Chat Thread - #6/INFO]: [Not Secure] <_Marble_> sao xa v ta=v
+[17:41:13] [Async Chat Thread - #6/INFO]: [Not Secure] <ButteredFire> :))
+[17:41:22] [Async Chat Thread - #6/INFO]: [Not Secure] <ButteredFire> -911 71 4637
+[17:41:37] [Async Chat Thread - #6/INFO]: [Not Secure] <_Marble_> ua:)))
+[17:42:17] [Async Chat Thread - #6/INFO]: [Not Secure] <ButteredFire> em co string ko
+[17:42:25] [Async Chat Thread - #6/INFO]: [Not Secure] <_Marble_> k anh
+[17:42:33] [Async Chat Thread - #6/INFO]: [Not Secure] <ButteredFire> v la ko lam lead dc r :v
+[17:42:53] [Async Chat Thread - #6/INFO]: [Not Secure] <_Marble_> hay de tui ngua nay oday anh:))
+[17:42:56] [Async Chat Thread - #6/INFO]: [Not Secure] <_Marble_> lan sau toi lay
+[17:43:02] [Async Chat Thread - #6/INFO]: [Not Secure] <ButteredFire> thoi, minh mang no ve di
+[17:43:14] [Async Chat Thread - #6/INFO]: [Not Secure] <_Marble_> chu minh phai bang qua bien ha anh:))
+[17:43:21] [Async Chat Thread - #6/INFO]: [Not Secure] <ButteredFire> minh sap toi r
+[17:44:24] [Async Chat Thread - #8/INFO]: [Not Secure] <_Marble_> oh here
+[17:45:56] [Async Chat Thread - #10/INFO]: [Not Secure] <_Marble_> ua anh oi
+[17:46:02] [Async Chat Thread - #10/INFO]: [Not Secure] <_Marble_> cai do de xoa enchant la cgi v nhi
+[17:46:15] [Async Chat Thread - #12/INFO]: [Not Secure] <ButteredFire> hinh nhu la grinder hay j do
+[17:46:17] [Async Chat Thread - #12/INFO]: [Not Secure] <ButteredFire> de anh check
+[17:46:34] [Async Chat Thread - #12/INFO]: [Not Secure] <ButteredFire> grindstone nhe
+[17:48:37] [Async Chat Thread - #13/INFO]: [Not Secure] <_Marble_> anh oi
+[17:48:41] [Async Chat Thread - #13/INFO]: [Not Secure] <ButteredFire> jv
+[17:48:42] [Async Chat Thread - #13/INFO]: [Not Secure] <_Marble_> thanh pham hnay ne anh=))
+[17:48:50] [Async Chat Thread - #14/INFO]: [Not Secure] <ButteredFire> yeye :))
+[17:49:19] [Async Chat Thread - #14/INFO]: [Not Secure] <_Marble_> 1 stack ruoi emerald=))
+[17:49:23] [Async Chat Thread - #13/INFO]: [Not Secure] <ButteredFire> niceeee
+[17:49:30] [Async Chat Thread - #13/INFO]: [Not Secure] <_Marble_> sao nhieu that nghiep the nay :V
+[17:49:46] [Async Chat Thread - #13/INFO]: [Not Secure] <ButteredFire> :)) minh tim may block nghe nghiep di
+[17:50:07] [Async Chat Thread - #13/INFO]: [Not Secure] <ButteredFire> chac do se la muc tieu cho lan sau
+[17:50:29] [Async Chat Thread - #13/INFO]: [Not Secure] <_Marble_> oke anh, hom sau rang kiem ban lam viec cho tui no
+[17:50:33] [Async Chat Thread - #13/INFO]: [Not Secure] <_Marble_> chac em se xay 1 cai farm mia
+[17:50:37] [Async Chat Thread - #13/INFO]: [Not Secure] <_Marble_> doi giay lay ems
+[17:50:39] [Async Chat Thread - #13/INFO]: [Not Secure] <_Marble_> =))
+[17:50:40] [Async Chat Thread - #13/INFO]: [Not Secure] <ButteredFire> ye
+[17:52:12] [Async Chat Thread - #15/INFO]: [Not Secure] <_Marble_> anh oi
+[17:52:21] [Async Chat Thread - #15/INFO]: [Not Secure] <ButteredFire> jv
+[17:52:32] [Async Chat Thread - #15/INFO]: [Not Secure] <_Marble_> cai ban enchant cua minh max r a
+[17:52:37] [Async Chat Thread - #15/INFO]: [Not Secure] <ButteredFire> niceeee
+[17:52:41] [Async Chat Thread - #15/INFO]: [Not Secure] <ButteredFire> doi anh lam cai grindstone
+[17:53:06] [Async Chat Thread - #15/INFO]: [Not Secure] <_Marble_> em moi mua 3 cai bookshelf voi gia 27ems... hoi dat
+[17:53:10] [Async Chat Thread - #15/INFO]: [Not Secure] <_Marble_> nhung bu lai minh max r=)))
+[17:53:20] [Async Chat Thread - #15/INFO]: [Not Secure] <_Marble_> tuc la co ty le ra bao ve IV a anh
+[17:53:20] [Async Chat Thread - #15/INFO]: [Not Secure] <ButteredFire> yeah
+[17:53:23] [Async Chat Thread - #15/INFO]: [Not Secure] <ButteredFire> nice
+[17:54:32] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> v th chac em off nha, de em chinh lai cai script server 1 xiu da
+[17:54:34] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> :)))
+[17:54:41] [Async Chat Thread - #17/INFO]: [Not Secure] <ButteredFire> ye
+[17:55:02] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> uaaaaaaaaaaaaa, em ra bao ve IV nay anh nhung k du level :v
+[17:55:12] [Async Chat Thread - #17/INFO]: [Not Secure] <ButteredFire> anh moi enchant dc cup efficiency IV :))
+[17:55:18] [Async Chat Thread - #17/INFO]: [Not Secure] <ButteredFire> niceee
+[17:55:28] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> ;)))))
+[17:55:34] [Async Chat Thread - #17/INFO]: [Not Secure] <ButteredFire> oi vai, efficiency IV + unbreaking III luon
+[17:55:37] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> ua anh
+[17:55:44] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> cai bien ma de ghi chu no ten la cgi v nhi
+[17:55:56] [Async Chat Thread - #17/INFO]: [Not Secure] <ButteredFire> de anh search
+[17:56:07] [Async Chat Thread - #17/INFO]: [Not Secure] <ButteredFire> a, sign
+[17:56:21] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> cam on anh
+[17:56:45] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> goodnight..
+[17:57:24] [Async Chat Thread - #17/INFO]: [Not Secure] <_Marble_> em out nha
+[17:57:28] [Async Chat Thread - #17/INFO]: [Not Secure] <ButteredFire> ye, bye
+[17:57:31] [Server thread/INFO]: _Marble_ lost connection: Disconnected
+[17:57:31] [Server thread/INFO]: _Marble_ left the game
+[17:57:44] [Server thread/INFO]: ButteredFire lost connection: Disconnected
+[17:57:44] [Server thread/INFO]: ButteredFire left the game
+[17:58:55] [Server thread/INFO]: Stopping server
+[17:58:55] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.5.3
+[17:58:55] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[17:58:55] [Server thread/INFO]: [TAB] Disabling TAB v5.4.0
+[17:58:55] [Server thread/INFO]: [TAB] Disabled in 1ms
+[17:58:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
+[17:58:55] [Server thread/INFO]: Saving players
+[17:58:55] [Server thread/INFO]: Saving worlds
+[17:58:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[17:58:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[17:58:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[17:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[17:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:58:55] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[17:58:55] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[17:58:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[17:58:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
