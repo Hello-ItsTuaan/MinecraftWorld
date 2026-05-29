@@ -1,0 +1,117 @@
+[15:03:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.11+10-1-26.04.2-Ubuntu; Ubuntu null) on Linux 7.0.0-14-generic (amd64)
+[15:03:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-74-main@3ebc5b3 (2026-01-02T19:02:46Z) for Minecraft 1.21.11
+[15:03:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:03:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[15:03:03] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Veinminer (2.5.3)
+[15:03:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Chunky (1.4.40), SkinsRestorer (15.12.0), TAB (5.4.0)
+[15:03:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:03:08] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:03:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 657.4ms
+[15:03:12] [ServerMain/INFO]: Loaded 1470 recipes
+[15:03:12] [ServerMain/INFO]: Loaded 1584 advancements
+[15:03:12] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[15:03:12] [Server thread/INFO]: Loading properties
+[15:03:12] [Server thread/INFO]: This server is running Paper version 1.21.11-74-main@3ebc5b3 (2026-01-02T19:02:46Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[15:03:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:03:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:03:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:03:12] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[15:03:12] [Server thread/INFO]: Default game type: SURVIVAL
+[15:03:12] [Server thread/INFO]: Generating keypair
+[15:03:13] [Server thread/INFO]: Starting Minecraft server on *:2026
+[15:03:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:03:13] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:03:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.0
+[15:03:13] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.4.0
+[15:03:13] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[15:03:13] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.5.3
+[15:03:13] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[15:03:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:03:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.0
+[15:03:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[15:03:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:03:15] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.5.3
+[15:03:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:03:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:03:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:03:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:03:16] [Server thread/INFO]: Preparing level "world"
+[15:03:16] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[15:03:16] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.0
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 2903414
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:03:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[15:03:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:03:17] [Server thread/INFO]: Preparing spawn area: 100%
+[15:03:17] [Server thread/INFO]: Prepared spawn area in 1 ms
+[15:03:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:03:17] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:03:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:03:17] [Server thread/INFO]: Prepared spawn area in 1 ms
+[15:03:17] [Server thread/INFO]: Done preparing level "world" (1.317s)
+[15:03:17] [Server thread/INFO]: [TAB] Enabling TAB v5.4.0
+[15:03:17] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is outdated (1.21.11). Installed: 2.5.3 -> Latest: 2.10.1
+[15:03:18] [Server thread/INFO]: [TAB] Enabled in 571ms
+[15:03:18] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[15:03:18] [Server thread/INFO]: [spark] Starting background profiler...
+[15:03:18] [Server thread/INFO]: Running delayed init tasks
+[15:03:18] [Server thread/INFO]: Done (18.643s)! For help, type "help"
+[15:03:21] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 release(s) and 58 build(s) behind!
+[15:03:21] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[15:06:01] [Server thread/INFO]: Unknown or incomplete command. See below for error
+hi<--[HERE]
+[15:07:27] [User Authenticator #0/INFO]: UUID of player _Marble_ is 1c392ad1-810a-3efc-8e1f-05278ea68342
+[15:07:31] [Server thread/INFO]: _Marble_ joined the game
+[15:07:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player _Marble_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:07:31] [Server thread/INFO]: _Marble_[/100.105.223.48:54465] logged in with entity id 92 at ([world]-927.0749999880791, 67.5, 4659.34254500023)
+[15:07:57] [Server thread/INFO]: _Marble_ lost connection: Disconnected
+[15:07:58] [Server thread/INFO]: _Marble_ left the game
+[15:24:18] [Server thread/INFO]: Stopping server
+[15:24:18] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.5.3
+[15:24:18] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[15:24:18] [Server thread/INFO]: [TAB] Disabling TAB v5.4.0
+[15:24:18] [Server thread/INFO]: [TAB] Disabled in 1ms
+[15:24:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
+[15:24:18] [Server thread/INFO]: Saving players
+[15:24:18] [Server thread/INFO]: Saving worlds
+[15:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:24:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:24:18] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:24:18] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[15:24:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:24:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
