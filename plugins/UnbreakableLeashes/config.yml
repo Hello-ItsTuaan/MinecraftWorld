@@ -1,0 +1,5 @@
+worlds: # Worlds that allow leashed mobs to teleport in/out of them.
+  #- world
+  #- world_nether
+  #- world_the_end
+  - ALL

@@ -20,6 +20,6 @@ curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"🚀 **[Ser
 cd $SERVER_DIR
 
 # Chạy ngầm server bằng Screen
-screen -dmS mc_server java -Xmx4G -Xms4G -jar paper-1.21.11-74.jar nogui
+screen -dmS mc_server java -Xms4G -Xmx4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=20 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -jar paper-1.21.11-74.jar nogui
 
 echo "✅ Server Minecraft đã được kích hoạt ngầm trong Screen!"
