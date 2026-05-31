@@ -7,3 +7,506 @@ To https://github.com/Hello-ItsTuaan/MinecraftWorld.git
    4cea6f4..5c5d3bc  main -> main
 🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 13:40:01 rồi nha m!
 🗣️ Surface đang gom file map...
+[main 7b25347] Surface update map: 2026-05-30 14:00:01 (UTC+7)
+ 1 file changed, 1 insertion(+)
+🚀 Đang push từ Surface lên GitHub báu vật...
+To https://github.com/Hello-ItsTuaan/MinecraftWorld.git
+   89a2104..7b25347  main -> main
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 14:00:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   world/data/raids.dat
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	plugins/spark/tmp/spark-8744465e5-libasyncProfiler.so.tmp
+	plugins/spark/tmp/spark-a22a7dd90d-profile-data.jfr.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 14:20:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	plugins/spark/tmp/spark-892514f9a-libasyncProfiler.so.tmp
+	plugins/spark/tmp/spark-8a375838d-profile-data.jfr.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 14:40:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	logs/2026-05-30-6.log.gz
+	logs/2026-05-30-7.log.gz
+	plugins/spark/tmp/spark-6a5d14fa0b-profile-data.jfr.tmp
+	plugins/spark/tmp/spark-88499502e-libasyncProfiler.so.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 15:00:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	logs/2026-05-30-6.log.gz
+	logs/2026-05-30-7.log.gz
+	logs/2026-05-30-8.log.gz
+	plugins/spark/tmp/spark-879419fc6-libasyncProfiler.so.tmp
+	plugins/spark/tmp/spark-be2473d439-profile-data.jfr.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 19:40:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	logs/2026-05-30-6.log.gz
+	logs/2026-05-30-7.log.gz
+	logs/2026-05-30-8.log.gz
+	plugins/spark/tmp/spark-1d58a05fe54-profile-data.jfr.tmp
+	plugins/spark/tmp/spark-879419fc6-libasyncProfiler.so.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 20:00:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-10.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	logs/2026-05-30-6.log.gz
+	logs/2026-05-30-7.log.gz
+	logs/2026-05-30-8.log.gz
+	logs/2026-05-30-9.log.gz
+	plugins/spark/tmp/spark-79f2d75d46-profile-data.jfr.tmp
+	plugins/spark/tmp/spark-a22001c8b-libasyncProfiler.so.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-30 20:20:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-10.log.gz
+	logs/2026-05-30-11.log.gz
+	logs/2026-05-30-12.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	logs/2026-05-30-6.log.gz
+	logs/2026-05-30-7.log.gz
+	logs/2026-05-30-8.log.gz
+	logs/2026-05-30-9.log.gz
+	plugins/spark/tmp/spark-8bf31d0d0-libasyncProfiler.so.tmp
+	plugins/spark/tmp/spark-e857cb233d-profile-data.jfr.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-31 15:00:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-10.log.gz
+	logs/2026-05-30-11.log.gz
+	logs/2026-05-30-12.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	logs/2026-05-30-6.log.gz
+	logs/2026-05-30-7.log.gz
+	logs/2026-05-30-8.log.gz
+	logs/2026-05-30-9.log.gz
+	logs/2026-05-31-1.log.gz
+	logs/2026-05-31-2.log.gz
+	plugins/spark/tmp/spark-24b133363b-profile-data.jfr.tmp
+	plugins/spark/tmp/spark-8b1e518ec-libasyncProfiler.so.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-31 15:20:01 rồi nha m!
+🗣️ Surface đang gom file map...
+error: open("world/level.dat"): Permission denied
+error: unable to index file 'world/level.dat'
+fatal: updating files failed
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron_log.log
+	modified:   logs/latest.log
+	modified:   plugins/SkinsRestorer/recommendations.json
+	modified:   server.properties
+	modified:   usercache.json
+	modified:   world/data/raids.dat
+	modified:   world/entities/r.-2.8.mca
+	modified:   world/entities/r.-2.9.mca
+	modified:   world/entities/r.-3.8.mca
+	modified:   world/entities/r.-3.9.mca
+	modified:   world/level.dat
+	modified:   world/level.dat_old
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat
+	modified:   world/playerdata/1c392ad1-810a-3efc-8e1f-05278ea68342.dat_old
+	modified:   world/poi/r.-2.9.mca
+	modified:   world/region/r.-2.8.mca
+	modified:   world/region/r.-2.9.mca
+	modified:   world/region/r.-3.8.mca
+	modified:   world/region/r.-3.9.mca
+	modified:   world/stats/1c392ad1-810a-3efc-8e1f-05278ea68342.json
+	modified:   world_nether/DIM-1/data/raids.dat
+	modified:   world_nether/level.dat
+	modified:   world_nether/level.dat_old
+	modified:   world_the_end/DIM1/data/raids_end.dat
+	modified:   world_the_end/level.dat
+	modified:   world_the_end/level.dat_old
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/2026-05-29-3.log.gz
+	logs/2026-05-30-1.log.gz
+	logs/2026-05-30-10.log.gz
+	logs/2026-05-30-11.log.gz
+	logs/2026-05-30-12.log.gz
+	logs/2026-05-30-2.log.gz
+	logs/2026-05-30-3.log.gz
+	logs/2026-05-30-4.log.gz
+	logs/2026-05-30-5.log.gz
+	logs/2026-05-30-6.log.gz
+	logs/2026-05-30-7.log.gz
+	logs/2026-05-30-8.log.gz
+	logs/2026-05-30-9.log.gz
+	logs/2026-05-31-1.log.gz
+	logs/2026-05-31-2.log.gz
+	plugins/spark/tmp/spark-13c16c86375-profile-data.jfr.tmp
+	plugins/spark/tmp/spark-8b1e518ec-libasyncProfiler.so.tmp
+	start_server_pro.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+🚀 Đang push từ Surface lên GitHub báu vật...
+Everything up-to-date
+🗿 Xong phim! Map từ Surface đã lên mây an toàn lúc 2026-05-31 15:40:01 rồi nha m!
