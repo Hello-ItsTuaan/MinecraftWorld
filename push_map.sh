@@ -1,7 +1,8 @@
 #!/bin/bash
+
 # Chui vào đúng hang ổ server Minecraft trên Surface
 cd ~/minecraft_server
-
+sudo chown -R tuan:tuan ~/minecraft_server
 echo "🗣️ Surface đang gom file map..."
 git add .
 
