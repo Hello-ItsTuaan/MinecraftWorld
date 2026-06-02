@@ -1,0 +1,52 @@
+[06-02 11:00:25]: [INFO] Created column 'regdate' and set the current timestamp, 1780398025944, to all 0 rows
+[06-02 11:00:26]: [INFO] SQLite Setup finished
+[06-02 11:00:26]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-02 11:00:26]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[06-02 11:00:26]: [INFO] AuthMe 6.0.0 build n.2734 successfully enabled!
+[06-02 11:00:28]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-02 11:00:28]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-02 11:00:28]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-02 11:00:28]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[06-02 11:00:28]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.0-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.0-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[06-02 11:03:12]: [FINE] ButteredFire registered 115.77.168.210
+[06-02 11:03:12]: [FINE] ButteredFire logged in 115.77.168.210
+[06-02 11:04:10]: [INFO] AuthMe 6.0.0-b2734 disabled!
+[06-02 11:22:46]: [INFO] SQLite Setup finished
+[06-02 11:22:46]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-02 11:22:46]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[06-02 11:22:46]: [INFO] AuthMe 6.0.0 build n.2734 successfully enabled!
+[06-02 11:22:48]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-02 11:22:49]: [INFO] Successfully downloaded new GEO IP database to plugins/AuthMe/GeoLite2-Country.mmdb
+[06-02 11:22:49]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[06-02 11:24:30]: [FINE] ButteredFire logged in 115.77.168.210
+[06-02 11:34:43]: [INFO] Unhooked from Permissions!
+[06-02 11:34:43]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-02 11:34:43]: [INFO] SQLite Setup finished
+[06-02 11:34:43]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[06-02 11:37:25]: [INFO] Unhooked from Permissions!
+[06-02 11:37:25]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-02 11:37:25]: [INFO] SQLite Setup finished
+[06-02 11:37:25]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[06-02 11:38:19]: [FINE] ButteredFire logged in 115.77.168.210
+[06-02 11:38:20]: [FINE] _Marble_ registered 192.168.1.1
+[06-02 11:38:20]: [FINE] _Marble_ logged in 192.168.1.1
+[06-02 11:59:17]: [FINE] _Marble_ logged in 192.168.1.1
+[06-02 12:01:21]: [FINE] _Marble_ logged in 89.39.107.200
+[06-02 12:03:25]: [INFO] AuthMe 6.0.0-b2734 disabled!
