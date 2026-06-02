@@ -5,5 +5,5 @@ version: 2
 language: en
 continue-on-restart: true
 force-load-existing-chunks: false
-silent: false
+silent: true
 update-interval: 1
