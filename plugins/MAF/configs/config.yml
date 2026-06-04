@@ -1,0 +1,85 @@
+# ███╗   ███╗ █████╗ ███████╗
+# ████╗ ████║██╔══██╗██╔════╝
+# ██╔████╔██║███████║█████╗  
+# ██║╚██╔╝██║██╔══██║██╔══╝  
+# ██║ ╚═╝ ██║██║  ██║██║     
+# ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
+# Minecraft Application Firewall
+# Advanced network security and routing
+
+# Language configuration
+# Available: en, pt_br, es, it, ru, zh
+language: en
+
+# Firewall settings
+firewall:
+  # Enable or disable the entire firewall system
+  enabled: true
+  
+  # Allow connections when geolocation lookup fails
+  # If false, players will be kicked when geo lookup fails
+  allow-on-geo-failure: true
+
+# VPN and Proxy detection
+vpn-detection:
+  # Enable VPN/Proxy detection
+  enabled: false
+  
+  # Block proxy connections
+  block-proxy: true
+  
+  # Block Tor network connections
+  block-tor: true
+  
+  # Block hosting/datacenter connections
+  # Warning: This may block legitimate players using cloud gaming services
+  block-hosting: false
+
+# Region-based connection control
+region-restriction:
+  # Enable region restrictions
+  enabled: false
+  
+  # Mode: 'disabled', 'whitelist', or 'blacklist'
+  # whitelist: Only allow connections from listed countries
+  # blacklist: Block connections from listed countries
+  mode: disabled
+  
+  # List of country codes (ISO 3166-1 alpha-2)
+  # Examples: US (United States), BR (Brazil), GB (United Kingdom)
+  # DE (Germany), FR (France), JP (Japan), CN (China), etc.
+  countries:
+  - US
+  - GB
+  - CA
+
+# World routing based on player region
+world-routing:
+  # Enable automatic world routing
+  enabled: false
+  
+  # Default world if no routing rule matches
+  default-world: world
+
+# Note: Specific routing rules are configured in worlds-routing.yml
+
+# IP Whitelist
+# IPs in this list bypass ALL firewall checks
+whitelist:
+  ips:
+  - 127.0.0.1
+# Add trusted IPs here
+
+# Advanced settings
+advanced:
+  # Enable debug logging
+  debug-mode: false
+  
+  # Cache time for geolocation lookups (in minutes)
+  cache-time-minutes: 30
+  
+  # API request timeout (in seconds)
+  api-timeout-seconds: 5
+
+# Do not modify this value
+config-version: 1.0.0

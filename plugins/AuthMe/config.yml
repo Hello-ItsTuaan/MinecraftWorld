@@ -472,14 +472,14 @@ Protection:
     enableProtectionRegistered: true
     geoIpDatabase:
         # Enable GeoIp database
-        enabled: true
+        enabled: false
         # The MaxMind clientId used to download the GeoIp database,
         # get one at https://www.maxmind.com/en/accounts/current/license-key
         # The EssentialsX project has a very useful tutorial on how to generate
         # the license key: https://github.com/EssentialsX/Wiki/blob/master/GeoIP.md
-        clientId: '1356580'
+        clientId: ''
         # The MaxMind licenseKey used to download the GeoIp database.
-        licenseKey: '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'
+        licenseKey: ''
     # Countries allowed to join the server and register. For country codes, see
     # https://dev.maxmind.com/geoip/legacy/codes/iso3166/
     # Use "LOCALHOST" for local addresses.
