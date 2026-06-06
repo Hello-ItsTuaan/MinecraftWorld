@@ -137,3 +137,22 @@
 [06-06 07:52:35]: [INFO] AuthMe 6.0.0 build n.2734 successfully enabled!
 [06-06 07:59:52]: [FINE] _Marble_ logged in 192.168.1.1
 [06-06 09:02:26]: [INFO] AuthMe 6.0.0-b2734 disabled!
+[06-06 16:10:16]: [INFO] SQLite Setup finished
+[06-06 16:10:16]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-06 16:10:16]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[06-06 16:10:17]: [INFO] AuthMe 6.0.0 build n.2734 successfully enabled!
+[06-06 16:11:20]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 16:12:52]: [FINE] ButteredFire logged in 103.199.32.16
+[06-06 16:14:38]: [FINE] ButteredFire logged in 115.77.168.210
+[06-06 16:19:03]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 16:34:00]: [FINE] ButteredFire logged in 115.77.168.210
+[06-06 16:34:35]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 16:46:03]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 16:57:05]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 17:02:31]: [FINE] ButteredFire logged in 115.77.168.210
+[06-06 17:08:51]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 17:20:16]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 17:35:59]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 17:42:36]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 18:05:33]: [FINE] _Marble_ logged in 192.168.1.1
+[06-06 18:18:13]: [INFO] AuthMe 6.0.0-b2734 disabled!
