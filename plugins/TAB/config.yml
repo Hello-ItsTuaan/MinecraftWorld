@@ -10,7 +10,7 @@ header-footer:
         - "Test footer in world 'test'"
     default:
       header:
-        - "<#FFFFFF>&m                                                </#FFFF00>"
+        - "<#FFFFFF>&m                                                                </#FFFF00>"
         - "&3&lServer name"
         - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
         - "&r&7Online players: &f%online%"
@@ -20,11 +20,11 @@ header-footer:
         - "%animation:time%"
         - "&2Ping: %ping%"
         - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
-        - "&e⏰ Remaining time: &c%clearlag_nextclear% &eleft!"
-        - "&eChunks đã load: &b%chunky_task_pregen_chunks_world% &7(&a%chunky_task_pregen_percent_world%%&7)"
+        - "&e⏰ ClearLag remaining time: &c%clearlag_nextclear% &eleft!"
+        - "%condition:chunky_running%"
         - ""
         - "&r&7Visit our webpage %animation:web%"
-        - "<#FFFFFF>&m                                                </#FFFF00>"
+        - "<#FFFFFF>&m                                                                </#FFFF00>"
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Tablist-name-formatting
 tablist-name-formatting:
@@ -134,7 +134,7 @@ layout:
       fixed-slots:
         - '1|&3Website&f:'
         - '2|&bmyserver.net'
-        - '3|&8&m                       '
+        - '3|&8&m                     '
         - '4|&3Name&f:'
         - '5|&b%player%'
         - '7|&3Rank&f:'
@@ -145,10 +145,10 @@ layout:
         - '14|&b%time%'
         - '21|&3Teamspeak&f:'
         - '22|&bts.myserver.net'
-        - '23|&8&m                       '
+        - '23|&8&m                     '
         - '41|&3Store&f:'
         - '42|&bshop.myserver.net'
-        - '43|&8&m                       '
+        - '43|&8&m                     '
       groups:
         staff:
           condition: permission:tab.staff
@@ -200,6 +200,11 @@ conditions:
       - "%player%=%essentials_nickname%"
     true: "%player%"
     false: "~%essentials_nickname%"
+  chunky_running:
+    conditions:
+      - "%chunky_task_pregen_running_world%=true"
+    true: "&eChunks đã load: &b%chunky_task_pregen_chunks_world% &7(&a%chunky_task_pregen_percent_world%%&7)"
+    false: "&eChunks đã load: &7Không hoạt động"
 
 placeholder-refresh-intervals:
   default-refresh-interval: 500
